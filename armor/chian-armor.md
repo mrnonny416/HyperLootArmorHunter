@@ -19,11 +19,11 @@
 
 ### <mark style="color:yellow;">Special Skill</mark>
 
-หาก IRONDUST หยิบได้ 'ดาบ <mark style="color:purple;">Katana'</mark> จะเลือกใช้ 1 ใน 2 ท่านี้ (เมื่อเข้า Action เฟส) ได้หนึ่งครั้ง คือ
+หาก IRONDUST หยิบได้ [<mark style="color:purple;">'ดาบ</mark> <mark style="color:purple;"></mark><mark style="color:purple;"><mark style="color:purple;">Katana'<mark style="color:purple;"></mark>](../event-card.md#weapon) จะเลือกใช้ 1 ใน 2 ท่านี้ (เมื่อเข้า Action เฟส) ได้หนึ่งครั้ง คือ
 
 1. <mark style="color:yellow;">Suicide Bomb</mark> : ระเบิดตัวตาย <mark style="background-color:red;">-2HP</mark> ทุกคน\*\*
 2. <mark style="color:yellow;">Kamikaze</mark> : เลือก 1 เป้าหมาย และตายไปพร้อมกัน\*\*
 
-\*\* เมื่อตายจะทำให้ <mark style="color:purple;">Katana</mark> ตกลงสู่กองทิ้งการ์ด
+<mark style="background-color:orange;">**\*\* เมื่อ IRONDUST ตาย จะทำให้ดาบ Katana หลุดมือ และตกลงสู่กองทิ้งการ์ด ทำให้ความสามารถพิเศษหมดไปกลับสู่ปกติ**</mark>
 
-<mark style="background-color:yellow;">(ทั้งสองท่าจะทำให้ IRONDUST : Chain Armor ใช้ Passive Skill ของตัวเองได้ง่ายและไวขึ้น)</mark>
+<mark style="background-color:yellow;">\*\*(ทั้งสองท่าจะทำให้ IRONDUST : Chain Armor ใช้ Passive Skill ของตัวเองได้ง่ายและไวขึ้น)\*\*</mark>
