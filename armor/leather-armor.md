@@ -10,7 +10,7 @@
 
 ### <mark style="color:yellow;">Passive Skill</mark>
 
-* เมื่อกำจัด [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) <mark style="color:green;"></mark> จะกิน [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) <mark style="color:green;"></mark> และสามารถ <mark style="background-color:red;">+1HP</mark> ได้ทันที
+* เมื่อกำจัด [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) จะกิน [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) และสามารถ <mark style="background-color:red;">+1HP</mark> ได้ทันที
 
 ### <mark style="color:yellow;">Action Skill</mark>
 
@@ -24,4 +24,4 @@
 * <mark style="color:red;">สั่งตาย</mark>ได้ 1 คนทันที
 * การโจมตีจะรุนแรงขึ้นจาก <mark style="color:red;">1ATK</mark> เป็น <mark style="color:red;">2ATK</mark> ต่อการโจมตี
 
-<mark style="background-color:yellow;">\*\*หากตาย ให้ทิ้งการ์ดดาบ</mark> <mark style="color:purple;background-color:yellow;">Xcaliber</mark><mark style="background-color:yellow;"><mark style="color:purple;">(Long Sword)<mark style="color:purple;"></mark><mark style="background-color:yellow;">กลับสู่กองทิ้งและความสามารถก็จะกลับเข้าสู่โหมดปรกติ</mark>
+<mark style="background-color:yellow;">\*\*หากตาย ให้ทิ้งการ์ดดาบ</mark> <mark style="color:purple;background-color:yellow;">Xcaliber</mark><mark style="color:purple;"><mark style="background-color:yellow;">(Long Sword)กลับสู่กองทิ้งและความสามารถก็จะกลับเข้าสู่โหมดปรกติ<mark style="background-color:yellow;"></mark>
