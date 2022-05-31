@@ -4,17 +4,17 @@
 
 ### <mark style="color:yellow;">ข้อมูลชุดเกราะ</mark>
 
-เป็นชุดเกราะของราชาปีศาจคนก่อนที่เต็มไปด้วยพลังแห่งความตาย จึงเรียกได้ว่าเป็นเจ้าแห่งความตายเลยก็ว่าได้ ผู้ที่สวมชุดเกราะนี้จะมีอำนาจในการต่อรองกับวิญญาณของผู้อื่นแลกกับวิญญาณของตัวเอง ทำให้สามารถเกิดใหม่ (Recovery HP) ได้ เมื่อมีการตายเกินขึ้นในสนามรบ
+ชุดเกราะราชาปีศาจ อัดแน่นไปด้วยความลึกลับและพลังแห่งความตาย ผู้ที่ครอบครองหรือสวมชุดเกราะ Demon Robe จะมีความสามารถในการหาผลประโยชน์กับความตาย ทำให้สามารถเกิดใหม่ (Recovery Full HP) เมื่อมีผู้เล่นหรือ Goblin ตายในสนามรบ และจะอันตรายขั้นสุด! หากถือคฑาแห่งความตาย (Bone Wand) อยู่ในมือ!!
 
 ![Demon Robe Skill](<../.gitbook/assets/B (5).png>) ![Bone Wand](<../.gitbook/assets/สำเนาของ bone-wand.png>)
 
 ### <mark style="color:yellow;">Passive Skill</mark>
 
-* เมื่อมีผู้เล่นตาย -> HP ของ Demon จะ <mark style="background-color:red;">+2HP</mark> (หรือ <mark style="background-color:red;">+4HP</mark> หากถือ <mark style="color:purple;">Bone Wand</mark> และ <mark style="background-color:red;">+6HP</mark> หากถือ <mark style="color:purple;">Bone Wand</mark> ครบทั้ง 2 อัน)
+* เมื่อมีผู้เล่นตาย -> HP ของ Demon จะ <mark style="background-color:red;">+2HP</mark> (หรือ <mark style="background-color:red;">+4HP</mark> หากถือ <mark style="color:purple;">Bone Wand</mark> 1 อัน และ <mark style="background-color:red;">+6HP</mark> หากถือ <mark style="color:purple;">Bone Wand</mark> ครบทั้ง 2 อัน)
 
 ### <mark style="color:yellow;">Action Skill</mark>
 
-* เมื่อ Demon ฆ่า [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) ตาย จะสามารถส่ง [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) ตัวนั้น ไปก่อกวน โจมตี สร้างความเสียหายกับผู้เล่นคนอื่นได้
+* เมื่อ Demon ฆ่า [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) ตาย จะสามารถส่ง [<mark style="color:green;">Goblin</mark>](../event-card.md#goblin) ไปก่อกวน โจมตี สร้างความเสียหายให้กับผู้เล่นหรือศัตรูได้
 
 ### <mark style="color:yellow;">Special Skill</mark>
 

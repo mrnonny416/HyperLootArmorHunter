@@ -4,7 +4,7 @@
 * [🥼 Armor](armor/README.md)
   * [⛓ Chian Armor : ฝุ่นเหล็ก IRONDUST](armor/chian-armor.md)
   * [👿 Demon Robe](armor/demon-robe.md)
-  * [👼 Divine Rob](armor/divine-rob.md)
+  * [👼 Divine Rob : นักพรตขาว](armor/divine-rob.md)
   * [🐉 Dragon Armor](armor/dragon-armor.md)
   * [🐻 Leather Armor](armor/leather-armor.md)
   * [🧛♂ Linen Robe](armor/linen-robe.md)

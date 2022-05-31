@@ -1,12 +1,14 @@
 ---
-description: 'การผจญภัยใหม่ในรูปแบบเกมกระดาน Hyperloot : Board Game Adventure'
+description: >-
+  ยินดีต้อนรับสู่การผจญภัยในรูปแบบเกมกระดาน Hyperloot : THE ARMOR HUNTER Board
+  Game Adventure
 cover: .gitbook/assets/021-01.png
 coverY: 1234.4931921331317
 ---
 
 # 🎮 Welcome To HyperLoot : The Armor Hunter
 
-![HyperLoot Project](.gitbook/assets/title\_bg.png)
+![](<.gitbook/assets/Screenshot 2022-05-31 215910 (1).jpg>)
 
 ### Story : ![⚔](https://static.xx.fbcdn.net/images/emoji.php/v9/t8f/1.5/16/2694.png) Armor Hunter ![🔥](https://static.xx.fbcdn.net/images/emoji.php/v9/ta9/1.5/16/1f525.png) ![⚔](https://static.xx.fbcdn.net/images/emoji.php/v9/t8f/1.5/16/2694.png)![⚔](https://static.xx.fbcdn.net/images/emoji.php/v9/t8f/1.5/16/2694.png)
 
