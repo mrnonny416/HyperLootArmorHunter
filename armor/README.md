@@ -4,7 +4,7 @@
 
 ![Armor Card](../.gitbook/assets/armor.png)
 
-#### ชุดเกราะจะมีทั้งหมด 8 แบบ ที่ให้ตามหา โดยความสามารถจะต่างกันออกไป
+#### 8 ชุดเกราะในตำนาน แต่ละชุดมาพร้อมความลับ/ความสามารถพิเศษเฉพาะตัว ดังนั้นการเลือกว่าจะใช้ชุดเกราะไหน ใช้เมื่อไหร่ถือเป็นเรื่องสำคัญ อาจชี้เป็นชี้ตาย หรือส่งผลกับเกมได้ตลอดเวลา)
 
 1. <mark style="color:green;"></mark>[<mark style="color:green;">Chian Armor</mark> <mark style="color:green;"></mark><mark style="color:yellow;"><mark style="color:green;"><mark style="color:green;"></mark> <mark style="color:yellow;"></mark><mark style="color:yellow;">(ฝุ่นเหล็ก IRONDUST)</mark>](chian-armor.md)
 2. [<mark style="color:green;">Demon Robe</mark> <mark style="color:yellow;">(ราชาปีศาจ)</mark>](demon-robe.md)
