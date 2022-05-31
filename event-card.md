@@ -22,7 +22,7 @@
 
 ### <mark style="color:yellow;">หนังสือ หรือคัมภีร์</mark>
 
-* เมื่อเจอ <mark style="color:yellow;">Book Card</mark> จะเครียร์ [<mark style="color:orange;">Assets Card</mark>](armor/) ทั้งหมดบนกระดานที่เปิดอยู่แล้วทำการเปิดใหม่
+* เมื่อเจอ <mark style="color:yellow;">Book Card</mark> จะเคลียร์ [<mark style="color:orange;">Assets Card</mark>](armor/) ทั้งหมดบนกระดานที่เปิดอยู่แล้วทำการเปิดใหม่
 
 ![](.gitbook/assets/book.png) ![](.gitbook/assets/grimoire.png) ![](.gitbook/assets/chronicle.png) ![](<.gitbook/assets/tome (1).png>)
 

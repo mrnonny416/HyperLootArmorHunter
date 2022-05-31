@@ -18,7 +18,7 @@
 
 ### <mark style="color:yellow;">Special Skill</mark>
 
-เมื่อเปิดได้การ์ด <mark style="color:purple;">Grave Wand</mark> จะสามาถทำได้ดังนี้
+เมื่อเปิดได้การ์ด <mark style="color:purple;">Grave Wand</mark> จะสามารถทำได้ดังนี้
 
 * <mark style="color:yellow;">Full Recovery</mark>
 * เลือกการ์ดในกองทิ้ง <mark style="color:orange;"></mark> [<mark style="color:orange;">Asset Card</mark>](./) มาสลับกับการ์ดในมือของตัวเองได้ 2 ใบ

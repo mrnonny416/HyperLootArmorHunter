@@ -17,7 +17,7 @@
 เมื่อเปิดเจอการ์ด Dragon จะได้รับพลังพิเศษ
 
 * <mark style="color:yellow;">Reset HP</mark> ได้ทันที
-* สามารถสี่งมังกร<mark style="color:red;">โจมตี</mark>ผู้เล่นคนอื่นได้ <mark style="background-color:red;">ATK+3</mark> (เมื่อรวมกับ <mark style="color:orange;">Effect</mark> ของการ์ดมังกร จะเป็น <mark style="background-color:red;">4ATK</mark>)
+* สามารถสั่งมังกร<mark style="color:red;">โจมตี</mark>ผู้เล่นคนอื่นได้ <mark style="background-color:red;">ATK+3</mark> (เมื่อรวมกับ <mark style="color:orange;">Effect</mark> ของการ์ดมังกร จะเป็น <mark style="background-color:red;">4ATK</mark>)
 
 ### <mark style="color:yellow;">Special Skill</mark>
 

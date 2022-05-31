@@ -15,7 +15,7 @@
 
 ### <mark style="color:yellow;">Action Skill</mark>
 
-เมื่อเปิดเจอเจอการ์ดโจมตี จะได้ 2 Point ATK เลือกได้ว่าจะ
+เมื่อเปิดเจอการ์ดโจมตี จะได้ 2 Point ATK เลือกได้ว่าจะ
 
 1. <mark style="color:red;">โจมตี</mark>ผู้เล่น 2 คน คนละ <mark style="background-color:red;">-1HP</mark> หรือ
 2. <mark style="color:red;">โจมตี</mark>ผู้เล่น 1 คน <mark style="background-color:red;">-2HP</mark> หรือ
@@ -25,6 +25,6 @@
 
 เมื่อเปิดได้การ์ด <mark style="color:purple;">War Hammer</mark> การ<mark style="color:red;">โจมตี</mark>ที่ต่ำกว่า <mark style="background-color:red;">1 DMG</mark> จะไม่มีผลและ <mark style="color:red;">ATK</mark> จะแรงขึ้นเป็น <mark style="color:red;">3 Point ATK</mark>
 
-<mark style="background-color:yellow;">\*</mark><mark style="color:yellow;background-color:yellow;">เพิ่มเปอร์เซนต์</mark><mark style="background-color:yellow;">การ</mark><mark style="color:red;background-color:yellow;">โจมตี</mark> <mark style="background-color:yellow;"></mark> <mark style="color:orange;background-color:yellow;">Linen Robe</mark> <mark style="background-color:yellow;">จาก 50% เป็น 66.66% คือทอยลูกเต๋าจาก 1-3 กลายเป็น 1-4 จะ</mark><mark style="color:red;background-color:yellow;">โจมตี</mark><mark style="background-color:yellow;">สำเร็จ และ 5-6</mark> <mark style="color:red;background-color:yellow;">โจมตี</mark><mark style="background-color:yellow;">พลาด</mark>
+<mark style="background-color:yellow;">\*</mark><mark style="color:yellow;background-color:yellow;">เพิ่มเปอร์เซ็นต์</mark><mark style="background-color:yellow;">การ</mark><mark style="color:red;background-color:yellow;">โจมตี</mark> <mark style="background-color:yellow;"></mark> <mark style="color:orange;background-color:yellow;">Linen Robe</mark> <mark style="background-color:yellow;">จาก 50% เป็น 66.66% คือทอยลูกเต๋าจาก 1-3 กลายเป็น 1-4 จะ</mark><mark style="color:red;background-color:yellow;">โจมตี</mark><mark style="background-color:yellow;">สำเร็จ และ 5-6</mark> <mark style="color:red;background-color:yellow;">โจมตี</mark><mark style="background-color:yellow;">พลาด</mark>
 
 <mark style="background-color:yellow;">\*\*หากตาย</mark> <mark style="color:purple;background-color:yellow;">War Hammer</mark> <mark style="background-color:yellow;">จะกลับสู่กองทิ้งและความสามารถนี้ก็จะหายไป</mark>

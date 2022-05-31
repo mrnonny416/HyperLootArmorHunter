@@ -14,7 +14,7 @@
 
 ### <mark style="color:yellow;">Action Skill</mark>
 
-* เมื่อ Divine Robe เปิดเจอ[<mark style="color:purple;">หนังสือ หรือคัมภีร์เวทย์</mark>](../event-card.md#undefined)จะสามารถเลือก<mark style="color:red;">โจมตีเป้าหมาย</mark>ได้ 1 ATK
+* เมื่อ Divine Robe เปิดเจอ[<mark style="color:purple;">หนังสือ หรือคัมภีร์</mark>](../event-card.md#undefined)จะสามารถเลือก<mark style="color:red;">โจมตีเป้าหมาย</mark>ได้ 1 ATK
 
 ### <mark style="color:yellow;">Special Skill</mark>
 
