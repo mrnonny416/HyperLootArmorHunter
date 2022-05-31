@@ -13,5 +13,5 @@
 * [🏹 Event Card](event-card.md)
 * [🎲 Item](item.md)
 * [Rule](rule/README.md)
-  * [Battle Mode](rule/battle-mode.md)
+  * [⚔ Battle Mode](rule/battle-mode.md)
 * [HyperLootProject](https://hyperlootproject.com/)
