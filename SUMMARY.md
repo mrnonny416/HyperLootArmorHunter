@@ -14,4 +14,6 @@
 * [🎲 Item](item.md)
 * [Rule](rule/README.md)
   * [⚔ Battle Mode](rule/battle-mode.md)
+  * [🗡 Solo](rule/solo.md)
+  * [👩👩👦👦 Co-op](rule/co-op.md)
 * [HyperLootProject](https://hyperlootproject.com/)

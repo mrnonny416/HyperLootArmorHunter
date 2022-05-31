@@ -9,3 +9,11 @@ description: กฏในการเล่น
 {% content-ref url="battle-mode.md" %}
 [battle-mode.md](battle-mode.md)
 {% endcontent-ref %}
+
+{% content-ref url="solo.md" %}
+[solo.md](solo.md)
+{% endcontent-ref %}
+
+{% content-ref url="co-op.md" %}
+[co-op.md](co-op.md)
+{% endcontent-ref %}
