@@ -2,7 +2,7 @@
 
 * [🎮 Welcome To HyperLoot : The Armor Hunter](README.md)
 * [🥼 Armor](armor/README.md)
-  * [⛓ Chian Armor](armor/chian-armor.md)
+  * [⛓ Chian Armor : ฝุ่นเหล็ก IRONDUST](armor/chian-armor.md)
   * [👿 Demon Robe](armor/demon-robe.md)
   * [👼 Divine Rob](armor/divine-rob.md)
   * [🐉 Dragon Armor](armor/dragon-armor.md)
