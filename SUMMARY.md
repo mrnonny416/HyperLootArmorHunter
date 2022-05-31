@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎮 Welcome To HyperLoot : Armor Hunter](README.md)
+* [🎮 Welcome To HyperLoot : The Armor Hunter](README.md)
 * [🥼 Armor](armor/README.md)
   * [⛓ Chian Armor](armor/chian-armor.md)
   * [👿 Demon Robe](armor/demon-robe.md)

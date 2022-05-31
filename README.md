@@ -1,9 +1,10 @@
 ---
+description: 'การผจญภัยใหม่ในรูปแบบเกมกระดาน Hyperloot : Board Game Adventure'
 cover: .gitbook/assets/021-01.png
 coverY: 1234.4931921331317
 ---
 
-# 🎮 Welcome To HyperLoot : Armor Hunter
+# 🎮 Welcome To HyperLoot : The Armor Hunter
 
 ![HyperLoot Project](.gitbook/assets/title\_bg.png)
 
