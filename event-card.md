@@ -20,13 +20,11 @@
 
 ![](.gitbook/assets/Capture.PNG)
 
-![](.gitbook/assets/bone-wand.png) ![](.gitbook/assets/club.png) ![](.gitbook/assets/Falchion.png) ![](.gitbook/assets/ghost-wand.png) ![](.gitbook/assets/grave-wand.png) ![](.gitbook/assets/katana.png) ![](<.gitbook/assets/Long Sword.png>) ![](.gitbook/assets/Mace.png) ![](.gitbook/assets/Maul.png) ![](.gitbook/assets/Quarterstaff.png) ![](.gitbook/assets/Scimitar.png) ![](.gitbook/assets/short-sword.png) ![](.gitbook/assets/Wand.png) ![](.gitbook/assets/Warhammer.png)
-
 ### <mark style="color:yellow;">หนังสือ หรือคัมภีร์</mark>
 
 * เมื่อเจอ <mark style="color:yellow;">Book Card</mark> จะเป็นการเคลียร์, shuffle หรือล้าง [<mark style="color:orange;">Assets Card</mark>](armor/) ที่ <mark style="color:yellow;">'เปิดโชว์อยู่ทั้งหมด'</mark> และทำการเปิดการ์ดใหม่จำนวน 6 ใบมาวางแทนการ์ดเดิม
 
-![](.gitbook/assets/book.png) ![](.gitbook/assets/grimoire.png) ![](.gitbook/assets/chronicle.png) ![](<.gitbook/assets/tome (1).png>)
+![](.gitbook/assets/Capture2.PNG)
 
 ### <mark style="color:yellow;">Goblin (ก็อบบลิน)</mark> <a href="#goblin" id="goblin"></a>
 
