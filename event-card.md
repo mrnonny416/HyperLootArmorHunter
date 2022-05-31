@@ -18,6 +18,8 @@
 * กำจัด [<mark style="color:green;">Goblin</mark> ](event-card.md#goblin)ที่เกาะตัวเราอยู่
 * <mark style="color:yellow;">Full Recovery</mark> (HP Max สูงสุดตามสถานะของผู้เล่น)
 
+![](.gitbook/assets/Capture.PNG)
+
 ![](.gitbook/assets/bone-wand.png) ![](.gitbook/assets/club.png) ![](.gitbook/assets/Falchion.png) ![](.gitbook/assets/ghost-wand.png) ![](.gitbook/assets/grave-wand.png) ![](.gitbook/assets/katana.png) ![](<.gitbook/assets/Long Sword.png>) ![](.gitbook/assets/Mace.png) ![](.gitbook/assets/Maul.png) ![](.gitbook/assets/Quarterstaff.png) ![](.gitbook/assets/Scimitar.png) ![](.gitbook/assets/short-sword.png) ![](.gitbook/assets/Wand.png) ![](.gitbook/assets/Warhammer.png)
 
 ### <mark style="color:yellow;">หนังสือ หรือคัมภีร์</mark>
