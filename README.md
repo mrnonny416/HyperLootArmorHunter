@@ -3,7 +3,7 @@ description: >-
   ยินดีต้อนรับสู่การผจญภัยในรูปแบบเกมกระดานที่มีชื่อว่า 'ARMOR HUNTER' Version
   0.1
 cover: .gitbook/assets/Screenshot 2022-05-31 215910 (1).jpg
-coverY: 2.8793456032719895
+coverY: 5.758691206543974
 ---
 
 # 🎮 Board Game Contest #01 : Armor Hunter The Adventure Board Game
