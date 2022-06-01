@@ -10,8 +10,8 @@ description: กฏในการเล่น
 [battle-mode.md](battle-mode.md)
 {% endcontent-ref %}
 
-{% content-ref url="solo.md" %}
-[solo.md](solo.md)
+{% content-ref url="solo-mode.md" %}
+[solo-mode.md](solo-mode.md)
 {% endcontent-ref %}
 
 {% content-ref url="co-op.md" %}
