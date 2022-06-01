@@ -16,4 +16,5 @@
   * [⚔ Battle Mode](rule/battle-mode.md)
   * [🗡 Solo Mode](rule/solo-mode.md)
   * [👩👩👦👦 Co-op](rule/co-op.md)
+* [🤝 Support](support.md)
 * [HyperLootProject](https://hyperlootproject.com/)
