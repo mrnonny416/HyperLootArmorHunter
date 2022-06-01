@@ -12,7 +12,7 @@
   * [💰 Silk Robe](armor/silk-robe.md)
 * [🏹 Event Card](event-card.md)
 * [🎲 Item](item.md)
-* [Rule](rule/README.md)
+* [📜 Rule](rule/README.md)
   * [⚔ Battle Mode](rule/battle-mode.md)
   * [🗡 Solo Mode](rule/solo-mode.md)
   * [👩👩👦👦 Co-op](rule/co-op.md)
