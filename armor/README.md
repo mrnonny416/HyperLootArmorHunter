@@ -17,3 +17,5 @@
 7. [<mark style="color:green;">Ornate Armor</mark> <mark style="color:yellow;">(นักรบเกราะเหล็ก)</mark>](ornate-armor.md)<mark style="color:yellow;"></mark>
 8. [<mark style="color:green;">Silk Robe</mark> <mark style="color:yellow;">(นักค้าความตาย/พ่อค้าวาณิช)</mark>](silk-robe.md)<mark style="color:yellow;"></mark>
 
+![](<../.gitbook/assets/Screenshot 2022-05-31 215910.jpg>)
+
