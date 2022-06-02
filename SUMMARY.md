@@ -1,6 +1,6 @@
 # Table of contents
 
-* [🎮 Board Game Contest #01 : Armor Hunter The Adventure Board Game](README.md)
+* [🎮 Armor Hunter The Adventure Board Game](README.md)
 * [🧙♂ Armor](armor/README.md)
   * [⛓ Chian Armor : ฝุ่นเหล็ก IRONDUST](armor/chian-armor.md)
   * [👿 Demon Robe](armor/demon-robe.md)
