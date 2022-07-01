@@ -18,4 +18,4 @@
   * [👩👦🐲 Co-op or VS Dragon](rule/battle-mode-2.md)
 * [🤝 Support](support.md)
 * [🔗 HyperLootProject](https://hyperlootproject.com/)
-* [🇬🇧 ENG Version](https://hyperloot-eng.armorhunter.xyz/)
+* [🇬🇧 ENG Version](https://hyperloot.armorhunter.xyz/)
