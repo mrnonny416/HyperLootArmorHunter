@@ -51,6 +51,6 @@
 
 ![](<.gitbook/assets/สำเนาของ pendant.png>)
 
-### <mark style="color:yellow;">Dragon Event Card</mark>
+### <mark style="color:yellow;">Dragon's Event Card</mark>
 
 * จะเป็นกองสำหรับมังกรที่ใช้เล่นใน Solo Mode และ Co-op Mode โดยจะประกอบได้ด้วยการ์ดที่เหมือนกับ Event Card ของผู้เล่น&#x20;
