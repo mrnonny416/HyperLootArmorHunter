@@ -1,5 +1,5 @@
 ---
-description: Welcome to 'ARMOR HUNTER' The Adventure Board Game (beta version)
+description: Welcome to 'ARMOR HUNTER' The Adventure Board Game
 cover: .gitbook/assets/Screenshot 2022-05-31 215910 (1) (1).jpg
 coverY: 5.758691206543974
 ---
