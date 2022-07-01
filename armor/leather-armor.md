@@ -4,8 +4,6 @@ description: สามัญชน // อัศวินโต๊ะกลม
 
 # 🐻 Leather Armor
 
-
-
 ![Leather Armor](<../.gitbook/assets/Leather Armor.png>)
 
 ### <mark style="color:yellow;">ข้อมูลชุดเกราะ</mark>
@@ -26,8 +24,8 @@ description: สามัญชน // อัศวินโต๊ะกลม
 
 เมื่อเปิดได้การ์ด <mark style="color:purple;">Xcaliber(Long Sword)</mark> ความสามารถนี้จะ Active ทั้งหมด
 
-* <mark style="color:yellow;">Full Recovery +</mark> <mark style="color:green;">Goblin</mark> <mark style="color:yellow;"></mark> ที่เกาะอยู่ตายทันทีและกลายเป็น HP ที่สามารถนำมาใช้เมื่อจำเป็นหรือต้องการได้
-* <mark style="color:red;">สั่งตาย</mark> ด้วยดาบ <mark style="color:red;"></mark> <mark style="color:purple;">Xcaliber</mark> 1 คน <mark style="background-color:orange;">(หรือ -5HP กรณีโจมตีศัตรูใน Co-op หรือ Solo Mode)</mark>
+* <mark style="color:yellow;">Full Recovery +</mark> <mark style="color:green;">Goblin</mark> ที่เกาะอยู่ตายทันทีและกลายเป็น HP ที่สามารถนำมาใช้เมื่อจำเป็นหรือต้องการได้
+* <mark style="color:red;">สั่งตาย</mark> ด้วยดาบ <mark style="color:purple;">Xcaliber</mark> 1 คน <mark style="background-color:orange;">(หรือ -5HP กรณีโจมตีศัตรูใน Co-op หรือ Solo Mode)</mark>
 * ระหว่างที่ถือดาบ การโจมตีจะรุนแรงขึ้นจาก <mark style="color:red;">1ATK</mark> เป็น <mark style="color:red;">2ATK</mark>
 
-<mark style="background-color:yellow;">\*\*หากตาย ให้ทิ้งการ์ดดาบ</mark> <mark style="color:purple;background-color:yellow;">Xcaliber</mark><mark style="color:purple;"><mark style="background-color:yellow;">(Long Sword)กลับสู่กองทิ้ง และความสามารถจะกลับเข้าสู่โหมดปรกติ<mark style="background-color:yellow;"></mark>
+<mark style="background-color:yellow;">\*\*หากตาย ให้ทิ้งการ์ดดาบ</mark> <mark style="color:purple;background-color:yellow;">Xcaliber</mark><mark style="background-color:yellow;"><mark style="color:purple;">(Long Sword)กลับสู่กองทิ้ง และความสามารถจะกลับเข้าสู่โหมดปรกติ<mark style="color:purple;"></mark>

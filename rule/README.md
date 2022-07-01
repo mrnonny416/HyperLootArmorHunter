@@ -2,7 +2,7 @@
 description: กฏในการเล่น
 ---
 
-# Rule
+# 📜 Rule
 
 ตัวเกมจะสามารถเล่นได้หลายรูปแบบ
 
@@ -10,10 +10,10 @@ description: กฏในการเล่น
 [battle-mode.md](battle-mode.md)
 {% endcontent-ref %}
 
-{% content-ref url="solo-mode.md" %}
-[solo-mode.md](solo-mode.md)
+{% content-ref url="battle-mode-1.md" %}
+[battle-mode-1.md](battle-mode-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="co-op.md" %}
-[co-op.md](co-op.md)
+{% content-ref url="battle-mode-2.md" %}
+[battle-mode-2.md](battle-mode-2.md)
 {% endcontent-ref %}

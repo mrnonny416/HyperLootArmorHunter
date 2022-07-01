@@ -1,6 +1,6 @@
 # 👿 Demon Robe
 
-![Demon Rob](<../.gitbook/assets/Demon Robe.png>)
+![Demon Rob](<../.gitbook/assets/Demon Robe (1).png>)
 
 ### <mark style="color:yellow;">ข้อมูลชุดเกราะ</mark>
 

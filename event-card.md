@@ -47,6 +47,10 @@
 
 ### <mark style="color:yellow;">Energy Card</mark>
 
-* เมื่อเจอ <mark style="color:yellow;">Energy Card</mark> จะสามารถ <mark style="color:blue;background-color:green;">Heal HP+1</mark> <mark style="color:blue;"></mark> (โหมดง่ายหรือ beginer mode จะเก็บสะสมและนำมาใช้ในเวลาที่ต้องการได้แม้ HP จะเต็มหลอดอยู่ // แต่โหมดยาก หรือ Insane Mode ต้องใช้หรือทิ้งทันที ไม่สามารถเก็บ)
+* เมื่อเจอ <mark style="color:yellow;">Energy Card</mark> จะสามารถ <mark style="color:blue;background-color:green;">Heal HP+1</mark> (โหมดง่ายหรือ beginer mode จะเก็บสะสมและนำมาใช้ในเวลาที่ต้องการได้แม้ HP จะเต็มหลอดอยู่ // แต่โหมดยาก หรือ Insane Mode ต้องใช้หรือทิ้งทันที ไม่สามารถเก็บ)
 
 ![](<.gitbook/assets/สำเนาของ pendant.png>)
+
+### <mark style="color:yellow;">Dragon Event Card</mark>
+
+* จะเป็นกองสำหรับมังกรที่ใช้เล่นใน Solo Mode และ Co-op Mode โดยจะประกอบได้ด้วยการ์ดที่เหมือนกับ Event Card ของผู้เล่น&#x20;

@@ -2,7 +2,7 @@
 
 ### <mark style="color:yellow;">ความต้องการ</mark>
 
-* ผู้เล่น 2-6 คน
+* ผู้เล่น 2-4 คน
 
 ### <mark style="color:yellow;">เวลาในการเล่น</mark>
 
@@ -10,7 +10,7 @@
 
 ### <mark style="color:yellow;">เงื่อนไขในการชนะ</mark>
 
-* สะสมยุทธภัณฑ์ครบ 3-5 ชุด ก่อนเป็นผู้ชนะ&#x20;
+* สะสมยุทธภัณฑ์ครบ 3-5 ชุด ก่อนเป็นผู้ชนะ
 * หากเป็นเกมแรกแนะนำเล่นแบบ 3 ชุด เพื่อศึกษาระบบเกม และค่อย ๆ ขยับเป็น 4 หรือ 5 ชุดเมื่อเล่นซ้ำ หรือเมื่อผู้เล่นแต่ละคนเข้าใจกฏ กติกา <mark style="color:yellow;">**เข้าใจความสามารถพิเศษของชุดเกราะแต่ละชุด**</mark> ยิ่งรู้วิธีเล่นครบหมดทุกคนจะเป็นเกมที่สนุก ลุ้นระทึกในทุก ๆ ครั้งที่หยิบการ์ด :smile:
 
 ### <mark style="color:yellow;">เตรียมเกม / SET UP (Basic Beginer Mode)</mark>
@@ -20,8 +20,8 @@
    \- ชุดเกราะว่างเปล่า 1 ใบ\
    \- HP : Token 3 เหรียญ
 2. ทำการสับการ์ดแยกการ์ดออกเป็นสองกอง คือ\
-   \- [<mark style="color:green;">Assets Card</mark>](../armor/) <mark style="color:green;"></mark> หรือการ์ดชุดเกราะ\
-   \- [<mark style="color:green;">Event Card</mark>](../event-card.md) <mark style="color:green;"></mark> จากนั้นทำการวางไว้ที่กระดาน (ตามที่เขียนกำกับไว้บนกระดาน board ในรูปตัวอย่าง)
+   \- [<mark style="color:green;">Assets Card</mark>](../armor/) หรือการ์ดชุดเกราะ\
+   \- [<mark style="color:green;">Event Card</mark>](../event-card.md) จากนั้นทำการวางไว้ที่กระดาน (ตามที่เขียนกำกับไว้บนกระดาน board ในรูปตัวอย่าง)
 3. แจกการ์ด [<mark style="color:green;">Assets Card</mark>](../armor/) ให้ผู้เล่น คนละ 6 ใบ
 4. เปิดการ์ด [<mark style="color:green;">Assets Card</mark>](../armor/) จากสองกองซ้าย/ขวาที่คว่ำอยู่ เปิดหงายและวางที่กลางกระดานจำนวนทั้งหมด 6 ใบ
 
